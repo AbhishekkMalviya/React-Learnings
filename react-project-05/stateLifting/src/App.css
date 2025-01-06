@@ -1,0 +1,11 @@
+.adiv{
+    background-color: rgb(255, 213, 45);
+    padding: 20px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1.5rem;
+    align-items: center;
+    margin: 1rem;
+}
